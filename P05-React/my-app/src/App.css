@@ -1,0 +1,13 @@
+body {
+  padding: 30px;
+}
+.App {
+  text-align: right;
+}
+#carrinho-img {
+  width: 30px;
+  display: inline-block
+}
+#carrinho-text {
+  display: inline-block;
+}
